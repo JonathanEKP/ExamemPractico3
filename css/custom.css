@@ -5,10 +5,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+    
 }
 
 
 /*===================MENU==========================*/
+
 
  #menu a, button{
      font-size: 18px !important;
@@ -26,7 +28,7 @@ body {
     max-height:39rem !important;
 }
 
-/*===================SECCION NUESTRO EQUIPO IMAGEN==========================*/
+
 
 
 
@@ -36,7 +38,27 @@ body {
 }
 
 
-/*===================SECCION NUESTRO EQUIPO MAPA==========================*/
+#recetas-text{
+    padding-top: 5%;
+    background-color: #f3f3f3;
+}
+
+#links{
+    text-decoration: none;
+}
+
+#borde-redondo{
+   
+    background-color: white;
+    border-radius: 8px;   
+}
+
+
+
+#img-receta{
+    padding-top: 3%;
+}
+
 #local {
     margin-top:50px;
     background-color: #f3f3f3;
@@ -190,6 +212,11 @@ footer p{
     #servicios-fila-1 {
         width:100% !important;
     }
+
+    #recetas-filas{
+        width: 100% !important;
+    }
+
 
     .icono-wrap{
         flex-wrap:wrap !important;

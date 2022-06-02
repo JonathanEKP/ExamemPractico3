@@ -233,6 +233,11 @@ footer p{
         margin-top: 30px !important;
     }
 
+    #recetas{
+        width: 100% !important;
+        margin-top: 30px !important;
+    }
+
     .icono-wrap{
         flex-wrap:wrap !important;
         justify-content: center !important;

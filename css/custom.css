@@ -53,6 +53,10 @@ body {
     border-radius: 8px;
 }
 
+.border-r{
+    border-right: 1px solid #D1D1D1;
+}
+
 .gray-bg{
     background-color: #f3f3f3;
 }
